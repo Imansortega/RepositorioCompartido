@@ -1,5 +1,7 @@
 package Principal;
-
+/**
+* Código para se usado en pruebas de GitHub
+*/
 import java.util.Scanner;
 
 public class Clase1Ejercicio1_V1 {
